@@ -129,3 +129,10 @@
             width: 770px;
             text-align: right;
         }
+        
+        footer {
+            background-color: black;
+            padding: 80px 20px;
+            color: white;
+            text-align: center;
+        }
